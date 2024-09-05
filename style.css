@@ -118,6 +118,12 @@ justify-content: center;
   background-color: white;
   margin-top:80px ;
 }
+.green{
+  background-color: #b9ff66;
+}
+.main1{
+  padding-bottom: 40px;
+}
 @media (max-width :330px) {
   .one1 h3{
     margin-top: 0;
@@ -243,9 +249,9 @@ justify-content: center;
         padding: 15px;  
         box-shadow: 4px 0px 3px rgba(0, 0, 0, 0.15);
         margin-left: 25px;
-        margin-bottom: 10px;
 
     }
+    
     .pic2{
         width: 120px;
     }
